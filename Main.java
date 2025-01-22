@@ -1,4 +1,4 @@
-package hdt1;
+package com.licuadora;
 
 import java.util.Scanner;
 
