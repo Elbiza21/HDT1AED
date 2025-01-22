@@ -1,7 +1,4 @@
-package hdt1;
-
-import com.licuadora.BlenderImpl;
-import com.licuadora.IBlender;
+package com.licuadora;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
